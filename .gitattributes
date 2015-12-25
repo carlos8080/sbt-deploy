@@ -1,0 +1,2 @@
+build.sbt merge=ours
+README.md merge=ours
