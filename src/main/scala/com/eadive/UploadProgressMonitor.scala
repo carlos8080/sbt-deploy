@@ -1,8 +1,8 @@
-package com.liveduca
+package com.eadive
 
 import java.text.NumberFormat
 import com.jcraft.jsch._
-import com.liveduca.ssh.SSH
+import com.eadive.ssh.SSH
 import org.joda.time._
 
 /**

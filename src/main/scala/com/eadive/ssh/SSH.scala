@@ -1,4 +1,4 @@
-package com.liveduca.ssh
+package com.eadive.ssh
 
 import java.io._
 import com.jcraft.jsch._

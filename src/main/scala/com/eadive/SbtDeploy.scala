@@ -1,10 +1,10 @@
-package com.liveduca
+package com.eadive
 
 import sbt.Keys._
 import sbt._
 
-import com.liveduca.ssh.SSH
-import com.liveduca.ssh.SSH._
+import com.eadive.ssh.SSH
+import com.eadive.ssh.SSH._
 
 import java.io._
 import scala.io.Source
