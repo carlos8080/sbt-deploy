@@ -1,4 +1,4 @@
-SBT-Deploy - 1.2.4
+SBT-Deploy - 1.2.5
 ==================
 
 SBT plugin to deploy Play apps in AWS instances (or any other).
@@ -8,7 +8,7 @@ SBT plugin to deploy Play apps in AWS instances (or any other).
 First import the library to your project, in ```plugins.sbt```:
 
 ```scala
-addSbtPlugin("com.eadive" % "sbt-deploy" % "1.2.4")
+addSbtPlugin("com.eadive" % "sbt-deploy" % "1.2.5")
 ```
 
 Then, in your ```build.sbt``` file:
@@ -54,6 +54,7 @@ This library works with **"com.jcraft" % "jsch" % "0.1.52"**. Please refer to [l
 
 Version | Changes
 --------|--------
+1.2.5 | Changing details to publish on Sonatype Nexus
 1.2.4 | Changing package name and organization to Eadive
 1.2.3 | Bugfix: adding log on screen, and fixing add as service
 1.2.2 | Bugfix: removing the removeOlderVersions setting
